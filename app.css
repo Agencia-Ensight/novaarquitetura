@@ -165,7 +165,7 @@ template {
     color: #ecf2f7;
 }
 .tx--aqua-bright {
-    color: #00fffc;
+    color: #9EF569;
 }
 .bg--white {
     background: #fff;
@@ -186,7 +186,7 @@ template {
     background: #ecf2f7;
 }
 .bg--aqua-bright {
-    background: #00fffc;
+    background: #9EF569;
 }
 * {
     -webkit-box-sizing: border-box;
@@ -938,7 +938,7 @@ body.has-nav .menu-btn {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
     border-radius: 100%;
-    background: #00fffc;
+    background: #9EF569;
     -webkit-transition: 0.4s ease;
     transition: 0.4s ease;
     opacity: 0;
@@ -1272,7 +1272,7 @@ html.is-loading body {
 }
 [data-js-list-opener] .icon::after,
 [data-js-list-opener] .icon::before {
-    background: #00fffc;
+    background: #9EF569;
     width: 100%;
 }
 [data-js-list-opener] .is--active .icon {
@@ -1506,7 +1506,7 @@ html.is-loading body {
     background: rgba(255, 255, 255, 0.5);
 }
 .brands-slider .flickity-page-dots li.is-selected {
-    background: #00fffc;
+    background: #9EF569;
 }
 .brands-slider .flickity-prev-next-button {
     width: 25px;
@@ -1681,7 +1681,7 @@ html.is-loading body {
     padding: 0;
 }
 .team .content-block a {
-    color: #00fffc;
+    color: #9EF569;
     font-size: 0.687rem;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -2022,13 +2022,13 @@ body.has-brand-panel .word-intro {
     -webkit-transform-origin: center center;
     transform-origin: center center;
     background: 0 0;
-    border: 1px solid #00fffc;
+    border: 1px solid #9EF569;
     -webkit-transform: rotate(45deg) scale(0.6);
     transform: rotate(45deg) scale(0.6);
 }
 .word-wrapper .icon::after,
 .word-wrapper .icon::before {
-    background: #00fffc;
+    background: #9EF569;
     width: 0.9rem;
 }
 .brand.is-active .word-wrapper .icon {
@@ -2183,7 +2183,7 @@ body.has-brand-panel .word-intro {
     color: #fff;
 }
 .news-header .filters a.is--active::after {
-    background: #00fffc;
+    background: #9EF569;
 }
 .news-header .column.media {
     display: -webkit-box;
@@ -2402,7 +2402,7 @@ body.has-brand-panel .word-intro {
 .project-header_content-services {
     letter-spacing: 0.1em;
     font-size: 11px;
-    color: #00fffc;
+    color: #9EF569;
     text-transform: uppercase;
     margin-top: 2rem;
     font-weight: 700;
@@ -2764,7 +2764,7 @@ body.has-brand-panel .word-intro {
     -ms-flex-align: center;
     align-items: center;
     padding: 1rem 1rem 0.8rem;
-    background: #00fffc;
+    background: #9EF569;
     color: #0c212c;
     text-transform: uppercase;
     font-size: 13px;
@@ -3020,7 +3020,7 @@ body.has-brand-panel .word-intro {
     width: 6px;
     height: 6px;
     border-radius: 100%;
-    background: #00fffc;
+    background: #9EF569;
     margin: 7px 0 0 0;
     -webkit-transform: translateX(15px);
     transform: translateX(15px);
